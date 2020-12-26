@@ -1,0 +1,37 @@
+body {
+    margin-top: 10px;
+    margin-left: 420px;
+    margin-right: 420px;
+    font-family: roboto, 'Noto Sans Myanmar UI', arial, sans-serif;
+}
+
+.fieldset1 {
+    padding-left: 50px;
+    background-color: #E8E8E8;
+    letter-spacing: normal;
+}
+
+.button1 {
+    background-color: #929792;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+}
+
+.button2 {
+    background-color: #929792;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+    margin-left: 380px;
+}
